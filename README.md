@@ -1,23 +1,13 @@
-# google-maps
+# google-maps demo for Indigo
 
-## Project setup
-```
-npm install
-```
+<img src="./src/assets/indago_demo.png">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+I've prepared this demo to showcase my skills using Vuejs and the npm vue2-google-maps
 
-### Compiles and minifies for production
+## Project setup in local enviroment
 ```
-npm run build
-```
+Clone repo, then run 'npm run serve' in CL for testing. 
 
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
